@@ -26,3 +26,6 @@ If you have gotten to this point, you must know that it is annoying to have to t
 Since we spent so much time setting up the keys so we would not need to have to enter a password, we now cna optomally move files with scp as we did earlier. We can use a different file and try the same thing and do the process in one command. Once we are in the account, we can also use ls command as mentioned to show this process worked and that our hard work has paid off.
  
 ![Image]()
+=======
+
+>>>>>>> 78c771316da4327d9c06f296319763d50336e12b
