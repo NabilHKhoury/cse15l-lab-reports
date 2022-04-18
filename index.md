@@ -1,5 +1,6 @@
 # Nabil Person page
 ## For CSE15L
+My lab report 1 is [here](https://nabilhkhoury.github.io/cse15l-lab-reports/lab-report-1-week2.html)
 Hi, my name nabil
 *Italic*
 **Nice dude**
