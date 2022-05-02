@@ -14,5 +14,6 @@ The code change was as descibed below which fixed the output.
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(81).png)
 
 ### Bug #3: When there is no openParenthesis
-The failute-inducing input is ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(96).png). The symptom is an error message becuase the index of openParen is -1. The bug is that our program does not take into account the case that there is not an open parenthesis. The code change that fixed it was as follows. 
+The failute-inducing input is 
+![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(96).png). The symptom is an error message becuase the index of openParen is -1. The bug is that our program does not take into account the case that there is not an open parenthesis. The code change that fixed it was as follows. 
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(82).png) 
