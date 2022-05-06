@@ -1,9 +1,9 @@
 # Lab Report Week 3
 Hi, my name is Nabil. In this lab report, I will be implementing all the optional choice tasks in lab 5. These tasks are streamlining ssh configuration, setting up Github access from `ieng6`, and copying whole directories with `scp -r`. 
 ## Streamlining SSH Configuration
- ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot98.png)\
+ ![Image]()\
 This is a screenshot of the config file that I created. \
-![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot99.png)\
+![Image]()\
 This is a screenshot of the ssh command logging into my account with `ssh ieng6`
 ![Image]()\
 This is a screenshot of the scp command copying a file to my ieng6 account
