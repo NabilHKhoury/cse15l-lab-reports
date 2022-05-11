@@ -8,7 +8,7 @@ This is a screenshot of the ssh command logging into my account with `ssh ieng6`
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(107).png)\
 This is a screenshot of the scp command copying a file to my ieng6 account
 ## Setup Github Access from ieng6
-![Imagehttps://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(100).png
+![Image]https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(100).png
 This is a screenshot of my public key stored in Github\
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(101).png)\
 This is a screenshot of where my private key is stored \
