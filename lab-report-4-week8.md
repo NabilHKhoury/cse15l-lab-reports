@@ -4,7 +4,7 @@ In this lab report, I am using my `MarkdownParseTest.java` and another persons f
 I put the first Snippet of tests in a file called Snippet1.md. Here is what it looks like. \
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(110).png).\
 The test I created is the following. \
-![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(109).png())\
+![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(109).png)\
 In my `MarkdownParseTest.java` file, the result was the following. \
 ![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(115).png).\
 In the other file, the result was the following .\
