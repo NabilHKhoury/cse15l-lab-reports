@@ -12,7 +12,10 @@ For the `516.md` test, my repositories output was `[moon.jpg, /uri]` and for the
 ### Which Implemented Correctly?
 For the `22.md` test it is clear that my repository was correct as the file return the link, which was the desired output. However, the shared repository got it incorrect.
 For the `516.md` test, my output was incorrect as it included both links in 2 seperate parenthesis, while the shared doc did not make this error and only included the `moon.jpg` link in the parenthesis. 
-(I came to these conclusions by also checking commonmark website linked in lab report and by previewing the files). 
+(I came to these conclusions by previewing the files). \
+![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(126).png)
+\
+![Image](https://nabilhkhoury.github.io/cse15l-lab-reports/Screenshot%20(127).png)
 ### How to fix bugs
 For the `22.md` test we do not have to fix any bugs; however, we have to for the `516.md` test. 
 The bug for the `516.md` case is that it includes both links in the non-nested double parenthesis. So to fix this we need to take this case into account.
